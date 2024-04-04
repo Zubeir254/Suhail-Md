@@ -1,8 +1,8 @@
 {
-  "name": "suhail-md@1.3.1",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "name": "Zubeir-md@1.3.1",
+  "description": "I am Zubeir-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
   "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "Zubeir", "Zubeir Md bot", "Zubeir-Md", "Zubeir MdWhatsaooBot", "ZubeirWaBot","ZubeirMD","zubeir Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
@@ -14,9 +14,9 @@
     },   
      
     "WELCOME": {
-      "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
-      "required" :false
+      "description": "put 'on' or 'off' to enable & disable WELCOME ",
+      "value": "on",
+      "required" :off
     },
      
     "GOODBYE": {
@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Zubeir Md",
       "required": false 
     },
     "PACK_AUTHER": {
